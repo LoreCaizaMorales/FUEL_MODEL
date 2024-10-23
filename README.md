@@ -22,7 +22,7 @@ La categorización se lo puede hacer en cualquier software pero en este caso hem
     * Mapa de ecosistemas
     * Mapa de Land Use Cover
     * Mapa de vegetación
-1. Preparacion de datos disponible [SERVIR_Amazonia](https://github.com/SERVIR-Amazonia/imbabura/tree/master/1_generacion_imagenes)
+1. Preparacion de datos disponible en: [SERVIR_Amazonia](https://github.com/SERVIR-Amazonia/imbabura/tree/master/1_generacion_imagenes)
    
 ## Modelos preliminares
 Para conocer la estructura de la vegetación hemos generado dos modelos que nos ayudan a categorizar los tipos de vegetación:

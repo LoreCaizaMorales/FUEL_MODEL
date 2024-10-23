@@ -1,4 +1,4 @@
-
+Los flujos de trabajo están disponibles en 
 # Metodología General 
 En este trabajo se describe una metodología para modelar combustibles forestales, aprovechando los datos y recursos abiertos de teledetección de proyectos como Sentinel y GEDI. Se demostrará cómo la teledetección puede servir como una herramienta esencial para resolver problemas tanto técnicos como económicos en la gestión forestal de Ecuador.
 

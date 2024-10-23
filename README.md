@@ -27,7 +27,7 @@ La categorización se lo puede hacer en cualquier software pero en este caso hem
 ## Modelos preliminares
 Para conocer la estructura de la vegetación hemos generado dos modelos que nos ayudan a categorizar los tipos de vegetación:
 
-### 1. Modelo de elevación de la vegetación
-### 2. Modelo de Fracción de Cabida Cubierta
+ 1. Modelo de elevación de la vegetación
+ 2. Modelo de Fracción de Cabida Cubierta
 ## Modelos de combustibles 
 Los flujos de trabajo están disponibles en: [FUEL MODEL WIKI](https://github.com/LoreCaizaMorales/FUEL_MODEL/wiki)

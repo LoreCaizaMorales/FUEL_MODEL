@@ -4,4 +4,4 @@ En este trabajo se describe una metodología para modelar combustibles forestale
 
 ![image](https://github.com/user-attachments/assets/2373fecf-c008-4847-a92a-23aa1c19416a)
 
-Preparacion de datos disponible [SERVIR_Amazonia](https://github.com/SERVIR-Amazonia/imbabura/tree/master/1_generacion_imagenes)
+1. Preparacion de datos disponible [SERVIR_Amazonia](https://github.com/SERVIR-Amazonia/imbabura/tree/master/1_generacion_imagenes)
